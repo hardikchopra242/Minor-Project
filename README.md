@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+## Nervousness Tracking and Confidence Enhancement Guidance System Based on IoT
+Nervousness, anxiety, and exaggeration during some critical stages of life can't be fruitful
+sometimes. Often ahead of the camera or while facing the audience, we discover ourselves
+during a situation or in a position where we aren't ready to have direct control over our
+body language, which may cause a negative impact of our personality over people's minds
+who are involved in communication with us. With this in mind, our research or project will
+be intended towards a solution to the present problem that may help whole humanity and
+that they are going to be ready to deliver what's best in them with remarkable aplomb. Our
+project will include an **IoT-based wearable device** connected to an **App-Based interface
+via the cloud**. This research or project is administered with the intention that whenever an
+individual attends or is involved in any critical engagement, such as a meeting or an
+interview, this device will generate a report supporting how that person reacts towards
+things based upon various body parameters. This report can be analysed on a web or
+android app-based dashboard. The information alongside his assessment of varied body
+parameters also includes a suggestion chart that means the person is on the way to cater
+to that situation swiftly and boosts their self-worth to a higher level. During a survey
+conducted by **IJARSE**, it has been observed that many individuals lack self-worth while
+presenting their ideas or something else ahead of the audience or within a gaggle. So, our
+project will cater to that problem by presenting different ideas to an individual to boost
+their confidence level.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Team Members
+[Rahul](https://github.com/Rahul170101) <br />
+[Hardik Chopra](https://github.com/hardikchopra242)  <br />
+[Shikhar Srivastava](https://github.com/shikhar8434)  <br />
+[Naaz Kakria](https://github.com/naazkakria)  <br />
